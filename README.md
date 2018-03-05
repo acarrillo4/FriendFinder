@@ -7,7 +7,7 @@
 #### Here's an overview:
 
 1. Click "Go to survey" to start
-![HomePage](./app/public/assets/images/img8.png)
+![HomePage](./app/public/assets/images/img8.jpg)
 
 2. Take the survey
 ![SurveyPage](./app/public/assets/images/surveyQuestions.jpg)
