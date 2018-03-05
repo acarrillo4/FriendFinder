@@ -1,0 +1,28 @@
+body {
+    background-image: url("../images/comic-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: 'Exo', sans-serif;
+}
+.container {
+    background-color: white;
+    width: 60%;
+    opacity: 0.935;
+}
+.questions {
+    font-size: 18px;
+}
+.modal {
+    width: 65%;
+    margin: 0px auto;
+}
+.modal-content{
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
