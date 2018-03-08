@@ -1,18 +1,14 @@
-# Friend Finder
+# AVENGER Finder
 
-#### Friend Finder is an express app that matches users with the most compatible AVENGERS Marvel Super Hero
+### [AVENGER Finder](https://agile-fjord-28436.herokuapp.com/) is an express application that will match users with the most compatible AVENGERS Marvel Super Hero character, using the results from the user's survey
 
-#### Take the compatibility survey and find your closest AVENGERS match: [Friend Finder](https://agile-fjord-28436.herokuapp.com/)
+### Demo of the Friend Finder App:
 
-#### Here's an overview:
-
-1. Click "Go to survey" to start
+1. Home Page: On the Home Page, be sure to click on the "Go To Survey" button, when you're ready to begin with the compatibility test!
 ![HomePage](./app/public/assets/images/img8.jpg)
 
-2. Take the survey
+2. Survey Page: You are provided a set of 10 questions/statements.  Choose whichever one fits you best - there is no right or wrong answer.
 ![SurveyPage](./app/public/assets/images/surveyQuestions.jpg)
 
 3. You are matched with an AVENGERS character!
 ![MatchModal](./app/public/assets/images/match.jpg)
-
-#### Bonus: If you hit "API friends list", you can view ALL user data.
